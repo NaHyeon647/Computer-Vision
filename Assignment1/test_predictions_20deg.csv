@@ -1,0 +1,16 @@
+image_path,prediction
+test_data/S_1.gif,S
+test_data/S_2.gif,S
+test_data/S_3.gif,S
+test_data/S_4.gif,S
+test_data/S_5.gif,S
+test_data/T_1.gif,T
+test_data/T_2.gif,V
+test_data/T_3.gif,V
+test_data/T_4.gif,T
+test_data/T_5.gif,V
+test_data/V_1.gif,V
+test_data/V_2.gif,V
+test_data/V_3.gif,V
+test_data/V_4.gif,V
+test_data/V_5.gif,V
